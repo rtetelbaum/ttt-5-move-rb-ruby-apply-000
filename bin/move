@@ -12,6 +12,6 @@ display_board(board)
 
 puts "Where would you like to go?"
 
-move(board, index, char = "X")
+move(board, index)
 
 display_board(board)
